@@ -1,10 +1,10 @@
-# Hi, I'm Sylwester 👋
+# Hi, I'm Sylwester 
 
 I’m building my portfolio in the direction of **SAP / Data / Backend development**, combining business experience with technical skills.
 
 ---
 
-## 🔧 What I focus on
+## What I focus on
 
 - Backend development in **ASP.NET Core**
 - Business applications and process logic (ERP-style systems)
@@ -13,33 +13,33 @@ I’m building my portfolio in the direction of **SAP / Data / Backend developme
 
 ---
 
-## 🚀 Key projects
+## Key projects
 
-### 🟦 SAP-Inspired Order Management
+### SAP-Inspired Order Management
 ERP-style application focused on order lifecycle, status transitions and role-based workflows  
-👉 https://github.com/silverek33/SapInspiredOrderManagement
+https://github.com/silverek33/SapInspiredOrderManagement
 
 ---
 
-### 🟩 Notes API
+### Notes API
 REST API with JWT authentication, EF Core, tests and CI (GitHub Actions)  
-👉 https://github.com/silverek33/NotesApi
+https://github.com/silverek33/NotesApi
 
 ---
 
-### 🟨 MiniCRM
+### MiniCRM
 Business application for managing contacts and communication history with role-based access  
-👉 https://github.com/silverek33/MiniCRM
+https://github.com/silverek33/MiniCRM
 
 ---
 
-### 🟪 GA4 + BigQuery Analytics
+### GA4 + BigQuery Analytics
 End-to-end data project: GA4 → BigQuery → SQL → Looker Studio dashboard  
-👉 https://github.com/silverek33/ga4-bigquery-ecommerce-analytics
+https://github.com/silverek33/ga4-bigquery-ecommerce-analytics
 
 ---
 
-## 🧠 Tech stack
+## Tech stack
 
 - **Backend:** ASP.NET Core, C#, Entity Framework Core
 - **Data:** SQL, BigQuery, Power BI, Looker Studio
@@ -47,7 +47,7 @@ End-to-end data project: GA4 → BigQuery → SQL → Looker Studio dashboard
 
 ---
 
-## 📈 Currently improving
+## Currently improving
 
 - backend architecture and clean code practices  
 - SQL and data modeling  
@@ -55,7 +55,7 @@ End-to-end data project: GA4 → BigQuery → SQL → Looker Studio dashboard
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/sylwester-kuźma  
 - Portfolio: https://kuzmasylwester.com
